@@ -1,0 +1,81 @@
+﻿pid,level,competition,year,group,difficulty,title,url,source,primary,primary_family,atoms,atom_count,multi,combo_type,position,complexity,ops_est,n_order,object,carrier,property,era,diff_band
+P1093,junior,NOIP,2007,普及组,2,奖学金,https://www.luogu.com.cn/problem/P1093,r1,sorting,基础实现,sorting,1,False,single,,O(n log n),,100,construct,multiset,order_irrelevant,2007-2012,1-2
+P1094,junior,NOIP,2007,普及组,2,纪念品分组,https://www.luogu.com.cn/problem/P1094,r1,greedy,贪心,greedy|two_pointers,2,True,proxy,,O(n log n),,1e4,min,multiset,local_swap|order_irrelevant,2007-2012,1-2
+P1095,junior,NOIP,2007,普及组,3,守望者的逃离,https://www.luogu.com.cn/problem/P1095,r1,dp_linear,动态规划,dp_linear|greedy,2,True,proxy,,O(T),,1e5,min,state_space,order_matters|no_aftereffect,2007-2012,3-4
+P1096,junior,NOIP,2007,普及组,3,Hanoi 双塔问题,https://www.luogu.com.cn/problem/P1096,r1,math_other,数学,math_other,1,False,single,,O(n),,100,min,number,math_formula|optimal_substructure,2007-2012,3-4
+P1055,junior,NOIP,2008,普及组,2,ISBN 号码,https://www.luogu.com.cn/problem/P1055,r1,simulation,基础实现,simulation,1,False,single,,O(1),,10,decide,string,simulation_nature|math_formula,2007-2012,1-2
+P1056,junior,NOIP,2008,普及组,3,排座椅,https://www.luogu.com.cn/problem/P1056,r1,greedy,贪心,greedy|sorting,2,True,proxy,,O((M+N) log(M+N)+D),,1e3,construct,grid,decomposable|local_swap,2007-2012,3-4
+P1057,junior,NOIP,2008,普及组,3,传球游戏,https://www.luogu.com.cn/problem/P1057,r1,dp_count,动态规划,dp_count,1,False,single,,O(n m),,20,count,ring,counting_nature|no_aftereffect,2007-2012,3-4
+P1058,junior,NOIP,2008,普及组,3,立体图,https://www.luogu.com.cn/problem/P1058,r1,simulation,基础实现,simulation,1,False,single,,O(m n h),,100,construct,grid,simulation_nature|constructive_nature,2007-2012,3-4
+P1067,junior,NOIP,2009,普及组,2,多项式输出,https://www.luogu.com.cn/problem/P1067,r1,simulation,基础实现,simulation,1,False,single,,O(n),,100,construct,sequence,simulation_nature|constructive_nature,2007-2012,1-2
+P1068,junior,NOIP,2009,普及组,2,分数线划定,https://www.luogu.com.cn/problem/P1068,r1,sorting,基础实现,sorting,1,False,single,,O(n log n),,1e4,construct,multiset,order_irrelevant,2007-2012,1-2
+P1069,junior,NOIP,2009,普及组,4,细胞分裂,https://www.luogu.com.cn/problem/P1069,r1,math_nt,数学,math_nt,1,False,single,,O(sqrt(m1)+N log S),,1e4,min,number,monotone_feasibility|math_formula,2007-2012,3-4
+P1070,junior,NOIP,2009,普及组,5,道路游戏,https://www.luogu.com.cn/problem/P1070,r1,dp_linear,动态规划,dp_linear|mono_stack_queue,2,True,proxy,,O(n m),,1e3,max,ring,optimal_substructure|no_aftereffect|order_matters,2007-2012,5-6
+P1158,junior,NOIP,2010,普及组,3,导弹拦截,https://www.luogu.com.cn/problem/P1158,r1,sorting,基础实现,sorting|enumeration,2,True,proxy,,O(n log n),,1e5,min,coordinates,order_irrelevant|monotone_feasibility,2007-2012,3-4
+P1179,junior,NOIP,2010,普及组,1,数字统计,https://www.luogu.com.cn/problem/P1179,r1,simulation,基础实现,simulation,1,False,single,,O(R log R),,1e5,count,number,simulation_nature,2007-2012,1-2
+P1190,junior,NOIP,2010,普及组,2,接水问题,https://www.luogu.com.cn/problem/P1190,r1,simulation,基础实现,simulation,1,False,single,,O(n log m),,1e4,value,sequence,simulation_nature|order_matters,2007-2012,1-2
+P1199,junior,NOIP,2010,普及组,3,三国游戏,https://www.luogu.com.cn/problem/P1199,r1,game,博弈,game,1,False,single,,O(n^2),,1e3,max,graph,game_nature|order_matters,2007-2012,3-4
+P1307,junior,NOIP,2011,普及组,1,数字反转,https://www.luogu.com.cn/problem/P1307,r1,simulation,基础实现,simulation,1,False,single,,O(log N),,10,value,number,simulation_nature,2007-2012,1-2
+P1308,junior,NOIP,2011,普及组,2,统计单词数,https://www.luogu.com.cn/problem/P1308,r1,string_algo,字符串,string_algo,1,False,single,,O(n m),,1e6,count,string,string_pattern|simulation_nature,2007-2012,1-2
+P1309,junior,NOIP,2011,普及组,3,瑞士轮,https://www.luogu.com.cn/problem/P1309,r1,sorting,基础实现,sorting|simulation,2,True,proxy,,O(n log n + n R),,1e5,value,sequence,decomposable|order_matters,2007-2012,3-4
+P1310,junior,NOIP,2011,普及组,4,表达式的值,https://www.luogu.com.cn/problem/P1310,r1,dp_count,动态规划,dp_count,1,False,single,,O(L),,1e5,count,string,counting_nature|decomposable|no_aftereffect,2007-2012,3-4
+P1075,junior,NOIP,2012,普及组,2,质因数分解,https://www.luogu.com.cn/problem/P1075,r1,math_nt,数学,math_nt,1,False,single,,O(sqrt n),,10,value,number,math_formula,2007-2012,1-2
+P1076,junior,NOIP,2012,普及组,3,寻宝,https://www.luogu.com.cn/problem/P1076,r1,simulation,基础实现,simulation,1,False,single,,O(n m),,1e4,value,grid,simulation_nature|order_matters,2007-2012,3-4
+P1077,junior,NOIP,2012,普及组,2,摆花,https://www.luogu.com.cn/problem/P1077,r1,dp_knapsack,动态规划,dp_knapsack,1,False,single,,O(n m maxa),,100,count,sequence,counting_nature|order_matters,2007-2012,1-2
+P1078,junior,NOIP,2012,普及组,4,文化之旅（疑似错题）,https://www.luogu.com.cn/problem/P1078,r1,search,搜索,search|shortest_path,2,True,proxy,,O(2^K (N+M)),,100,min,graph,path_nature|search_nature,2007-2012,3-4
+P1980,junior,NOIP,2013,普及组,1,计数问题,https://www.luogu.com.cn/problem/P1980,r1,enumeration,基础实现,enumeration,1,False,single,,O(n log n),,1e6,count,sequence,simulation_nature,2013-2018,1-2
+P1981,junior,NOIP,2013,普及组,2,表达式求值,https://www.luogu.com.cn/problem/P1981,r1,simulation,基础实现,simulation,1,False,single,,O(n),,1e5,value,string,order_matters|simulation_nature,2013-2018,1-2
+P1982,junior,NOIP,2013,普及组,4,小朋友的数字,https://www.luogu.com.cn/problem/P1982,r1,dp_linear,动态规划,dp_linear,1,False,single,,O(n),,1e6,max,sequence,optimal_substructure|order_matters|prefix_diff_nature,2013-2018,3-4
+P1983,junior,NOIP,2013,普及组,4,车站分级,https://www.luogu.com.cn/problem/P1983,r1,toposort,图论/树,toposort|dp_dag,2,True,proxy,,O(n m),,1e3,min,sequence,interval_nature|order_matters,2013-2018,3-4
+P2118,junior,NOIP,2014,普及组,2,比例简化,https://www.luogu.com.cn/problem/P2118,r1,enumeration,基础实现,enumeration,1,False,single,,O(L^2 log L),,100,min,number,math_formula|small_state,2013-2018,1-2
+P2141,junior,NOIP,2014,普及组,2,珠心算测验,https://www.luogu.com.cn/problem/P2141,r1,enumeration,基础实现,enumeration,1,False,single,,O(n^2),,100,count,set,order_irrelevant|small_state,2013-2018,1-2
+P2239,junior,NOIP,2014,普及组,3,螺旋矩阵,https://www.luogu.com.cn/problem/P2239,r1,math_other,数学,math_other,1,False,single,,O(n),,1e4,value,matrix,math_formula,2013-2018,3-4
+P2258,junior,NOIP,2014,普及组,5,子矩阵,https://www.luogu.com.cn/problem/P2258,r1,enumeration,基础实现,enumeration|dp_linear,2,True,proxy,,O(2^n m^2 c),,20,min,matrix,small_state|optimal_substructure,2013-2018,5-6
+P2669,junior,NOIP,2015,普及组,1,金币,https://www.luogu.com.cn/problem/P2669,r1,simulation,基础实现,simulation,1,False,single,,O(k),,1e4,value,sequence,simulation_nature,2013-2018,1-2
+P2670,junior,NOIP,2015,普及组,1,扫雷游戏,https://www.luogu.com.cn/problem/P2670,r1,simulation,基础实现,simulation,1,False,single,,O(n m),,100,value,grid,simulation_nature,2013-2018,1-2
+P2671,junior,NOIP,2015,普及组,4,求和,https://www.luogu.com.cn/problem/P2671,r1,math_other,数学,math_other|prefix_diff,2,True,proxy,,O(n),,1e5,value,sequence,math_formula|prefix_diff_nature,2013-2018,3-4
+P2672,junior,NOIP,2015,普及组,5,推销员,https://www.luogu.com.cn/problem/P2672,r1,greedy_heap,贪心,greedy_heap|prefix_diff,2,True,proxy,,O(n log n),,1e5,max,sequence,prefix_diff_nature|monotone_data|order_matters,2013-2018,5-6
+P1909,junior,NOIP,2016,普及组,1,买铅笔,https://www.luogu.com.cn/problem/P1909,r1,enumeration,基础实现,enumeration,1,False,single,,O(1),,10,min,multiset,simulation_nature,2013-2018,1-2
+P2010,junior,NOIP,2016,普及组,2,回文日期,https://www.luogu.com.cn/problem/P2010,r1,enumeration,基础实现,enumeration,1,False,single,,O(10^4),,1e4,count,number,math_formula|small_state,2013-2018,1-2
+P2058,junior,NOIP,2016,普及组,3,海港,https://www.luogu.com.cn/problem/P2058,r1,two_pointers,二分/双指针/前缀,two_pointers,1,False,single,,O(n + sum k),,1e5,count,sequence,two_pointer_nature|monotone_data,2013-2018,3-4
+P2119,junior,NOIP,2016,普及组,4,魔法阵,https://www.luogu.com.cn/problem/P2119,r1,math_counting,数学,math_counting|prefix_diff,2,True,proxy,,O(n^2),,1e5,count,multiset,counting_nature|math_formula|prefix_diff_nature,2013-2018,3-4
+P3954,junior,NOIP,2017,普及组,1,成绩,https://www.luogu.com.cn/problem/P3954,r1,simulation,基础实现,simulation,1,False,single,,O(1),,10,value,number,simulation_nature,2013-2018,1-2
+P3955,junior,NOIP,2017,普及组,2,图书管理员,https://www.luogu.com.cn/problem/P3955,r1,enumeration,基础实现,enumeration,1,False,single,,O(n q),,1e3,min,multiset,string_pattern,2013-2018,1-2
+P3956,junior,NOIP,2017,普及组,4,棋盘,https://www.luogu.com.cn/problem/P3956,r1,shortest_path,图论/树,shortest_path,1,False,single,,O(m^2 log m),,100,min,grid,search_nature,2013-2018,3-4
+P3957,junior,NOIP,2017,普及组,5,跳房子,https://www.luogu.com.cn/problem/P3957,r1,binary_answer,二分/双指针/前缀,binary_answer|dp_linear|mono_stack_queue,3,True,proxy,,O(n log 1e9),,1e6,min,sequence,monotone_feasibility|order_matters|no_aftereffect,2013-2018,5-6
+P5015,junior,NOIP,2018,普及组,1,标题统计,https://www.luogu.com.cn/problem/P5015,r1,simulation,基础实现,simulation,1,False,single,,O(n),,10,count,string,simulation_nature,2013-2018,1-2
+P5016,junior,NOIP,2018,普及组,2,龙虎斗,https://www.luogu.com.cn/problem/P5016,r1,enumeration,基础实现,enumeration|prefix_diff,2,True,proxy,,O(n),,1e5,min,sequence,order_matters|prefix_diff_nature,2013-2018,1-2
+P5017,junior,NOIP,2018,普及组,5,摆渡车,https://www.luogu.com.cn/problem/P5017,r1,dp_linear,动态规划,dp_linear|prefix_diff,2,True,proxy,,O(n m^2),,1e3,min,sequence,optimal_substructure|no_aftereffect,2013-2018,5-6
+P5018,junior,NOIP,2018,普及组,4,对称二叉树,https://www.luogu.com.cn/problem/P5018,r1,tree_property,图论/树,tree_property,1,False,single,,O(n log n),,1e6,max,tree,decomposable,2013-2018,3-4
+P5660,junior,CSP,2019,CSP-J,1,数字游戏,https://www.luogu.com.cn/problem/P5660,r1,simulation,基础实现,simulation,1,False,single,,O(1),,10,count,string,simulation_nature,2019-2026,1-2
+P5661,junior,CSP,2019,CSP-J,2,公交换乘,https://www.luogu.com.cn/problem/P5661,r1,simulation,基础实现,simulation,1,False,single,,O(n),,1e5,value,sequence,simulation_nature|order_matters,2019-2026,1-2
+P5662,junior,CSP,2019,CSP-J,4,纪念品,https://www.luogu.com.cn/problem/P5662,r1,dp_knapsack,动态规划,dp_knapsack,1,False,single,,O(T N M),,100,max,matrix,optimal_substructure|decomposable,2019-2026,3-4
+P5663,junior,CSP,2019,CSP-J,4,加工零件,https://www.luogu.com.cn/problem/P5663,r1,shortest_path,图论/树,shortest_path|search,2,True,proxy,,O(n+m+q),,1e5,decide,graph,path_nature|search_nature,2019-2026,3-4
+P7071,junior,CSP,2020,CSP-J,2,优秀的拆分,https://www.luogu.com.cn/problem/P7071,r1,math_other,数学,math_other,1,False,single,,O(log n),,1e7,construct,number,math_formula,2019-2026,1-2
+P7072,junior,CSP,2020,CSP-J,2,直播获奖,https://www.luogu.com.cn/problem/P7072,r1,sorting,基础实现,sorting,1,False,single,,O(600 n),,1e5,value,sequence,order_matters,2019-2026,1-2
+P7073,junior,CSP,2020,CSP-J,4,表达式,https://www.luogu.com.cn/problem/P7073,r1,tree_property,图论/树,tree_property,1,False,single,,O(|s| + q),,1e6,value,string,decomposable|order_matters,2019-2026,3-4
+P7074,junior,CSP,2020,CSP-J,4,方格取数,https://www.luogu.com.cn/problem/P7074,r1,dp_linear,动态规划,dp_linear,1,False,single,,O(n m),,1e3,max,grid,optimal_substructure|no_aftereffect|order_matters,2019-2026,3-4
+P7909,junior,CSP,2021,CSP-J,2,分糖果,https://www.luogu.com.cn/problem/P7909,r1,math_other,数学,math_other,1,False,single,,O(1),,10,max,number,math_formula,2019-2026,1-2
+P7910,junior,CSP,2021,CSP-J,3,插入排序,https://www.luogu.com.cn/problem/P7910,r1,sorting,基础实现,sorting,1,False,single,,O(n log n + Q + 5000 n),,1e5,value,sequence,order_matters,2019-2026,3-4
+P7911,junior,CSP,2021,CSP-J,3,网络连接,https://www.luogu.com.cn/problem/P7911,r1,simulation,基础实现,simulation,1,False,single,,O(n L),,1e3,decide,string,simulation_nature|string_pattern,2019-2026,3-4
+P7912,junior,CSP,2021,CSP-J,4,小熊的果篮,https://www.luogu.com.cn/problem/P7912,r1,simulation,基础实现,simulation,1,False,single,,O(n),,1e5,construct,sequence,simulation_nature|order_matters,2019-2026,3-4
+P8813,junior,CSP,2022,CSP-J,1,乘方,https://www.luogu.com.cn/problem/P8813,r2,simulation,基础实现,simulation,1,False,single,T1,"O(min(b,30))",30,10,value,number,simulation_nature|math_formula,2019-2026,1-2
+P8814,junior,CSP,2022,CSP-J,2,解密,https://www.luogu.com.cn/problem/P8814,r2,math_other,数学,math_other,1,False,single,T2,O(k),1000000,1e5,value,number,math_formula,2019-2026,1-2
+P8815,junior,CSP,2022,CSP-J,4,逻辑表达式,https://www.luogu.com.cn/problem/P8815,r2,simulation,基础实现,simulation,1,False,single,T3,O(|s|),2000000,1e6,value,string,order_matters|decomposable|simulation_nature,2019-2026,3-4
+P8816,junior,CSP,2022,CSP-J,3,上升点列,https://www.luogu.com.cn/problem/P8816,r2,dp_linear,动态规划,dp_linear,1,False,single,T4,O(n^2 k),25000000,1e3,max,coordinates,optimal_substructure|no_aftereffect,2019-2026,3-4
+P9748,junior,CSP,2023,CSP-J,2,小苹果,https://www.luogu.com.cn/problem/P9748,r2,simulation,基础实现,simulation,1,False,single,T1,O(log n),200,1e7,value,sequence,simulation_nature|math_formula,2019-2026,1-2
+P9749,junior,CSP,2023,CSP-J,2,公路,https://www.luogu.com.cn/problem/P9749,r2,greedy,贪心,greedy,1,False,single,T2,O(n),1000000,1e5,min,sequence,local_swap|order_matters,2019-2026,1-2
+P9750,junior,CSP,2023,CSP-J,3,一元二次方程,https://www.luogu.com.cn/problem/P9750,r2,math_other,数学,math_other,1,False,single,T3,O(T sqrt(M)),5000000,1e3,value,number,math_formula|constructive_nature,2019-2026,3-4
+P9751,junior,CSP,2023,CSP-J,4,旅游巴士,https://www.luogu.com.cn/problem/P9751,r2,shortest_path,图论/树,shortest_path,1,False,single,T4,O(k(n+m) log(nk)),50000000,1e4,min,graph,path_nature|search_nature|monotone_feasibility,2019-2026,3-4
+P11227,junior,CSP,2024,CSP-J,1,扑克牌,https://www.luogu.com.cn/problem/P11227,r2,simulation,基础实现,simulation,1,False,single,T1,O(n),100,100,count,multiset,order_irrelevant|simulation_nature,2019-2026,1-2
+P11228,junior,CSP,2024,CSP-J,2,地图探险,https://www.luogu.com.cn/problem/P11228,r2,simulation,基础实现,simulation,1,False,single,T2,O(k+nm),5000000,1e6,count,grid,simulation_nature|order_matters,2019-2026,1-2
+P11229,junior,CSP,2024,CSP-J,3,小木棍,https://www.luogu.com.cn/problem/P11229,r2,greedy,贪心,greedy,1,False,single,T3,O(Tn),5000000,1e5,construct,number,constructive_nature|math_formula,2019-2026,3-4
+P11230,junior,CSP,2024,CSP-J,5,接龙,https://www.luogu.com.cn/problem/P11230,r2,dp_linear,动态规划,dp_linear|mono_stack_queue,2,True,optimize,T4,O(r·Σl),20000000,1e5,decide,sequence,search_nature|order_matters,2019-2026,5-6
+P14357,junior,CSP,2025,CSP-J,2,拼数,https://www.luogu.com.cn/problem/P14357,r2,sorting,基础实现,sorting,1,False,single,T1,O(|s|),1000000,1e6,max,string,order_irrelevant|local_swap,2019-2026,1-2
+P14358,junior,CSP,2025,CSP-J,2,座位,https://www.luogu.com.cn/problem/P14358,r2,simulation,基础实现,simulation,1,False,single,T2,O(nm),100,100,value,sequence,simulation_nature|math_formula,2019-2026,1-2
+P14359,junior,CSP,2025,CSP-J,3,异或和,https://www.luogu.com.cn/problem/P14359,r2,greedy,贪心,greedy|prefix_diff,2,True,pipeline,T3,O(n),5000000,1e6,max,sequence,prefix_diff_nature|local_swap|order_matters,2019-2026,3-4
+P14360,junior,CSP,2025,CSP-J,3,多边形,https://www.luogu.com.cn/problem/P14360,r2,dp_knapsack,动态规划,dp_knapsack,1,False,single,T4,O(n * maxA),25000000,1e4,count,multiset,counting_nature|order_irrelevant|small_state,2019-2026,3-4
+P17827,junior,CSP,2026,CSP-J,1,旅游 / travel,https://www.luogu.com.cn/problem/P17827,r2,simulation,基础实现,simulation,1,False,single,T1,O(1),100,10,decide,string,simulation_nature|constructive_nature,2019-2026,1-2
+P17828,junior,CSP,2026,CSP-J,2,回文串 / string,https://www.luogu.com.cn/problem/P17828,r2,two_pointers,二分/双指针/前缀,two_pointers,1,False,single,T2,O(n),1000000,1e5,min,string,two_pointer_nature|order_matters,2019-2026,1-2
+P17829,junior,CSP,2026,CSP-J,3,按位与 / and,https://www.luogu.com.cn/problem/P17829,r2,greedy,贪心,greedy,1,False,single,T3,O(30n),6000000,1e5,max,multiset,order_irrelevant|math_formula,2019-2026,3-4
+P17830,junior,CSP,2026,CSP-J,4,纸牌游戏 / card,https://www.luogu.com.cn/problem/P17830,r2,dp_linear,动态规划,dp_linear,1,False,single,T4,O(n+m),2000000,1e6,count,sequence,order_matters|simulation_nature,2019-2026,3-4

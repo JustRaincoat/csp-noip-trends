@@ -1,0 +1,167 @@
+[
+ {
+  "pid": "P1084",
+  "contest": "NOIP",
+  "year": 2012,
+  "group": "提高组",
+  "difficulty": 7,
+  "title": "疫情控制",
+  "full_name": "[NOIP 2012 提高组] 疫情控制",
+  "luogu_tags": "贪心|树形数据结构|2012|线段树|倍增|二分|NOIP 提高组|排序|树链剖分",
+  "url": "https://www.luogu.com.cn/problem/P1084"
+ },
+ {
+  "pid": "P1600",
+  "contest": "NOIP",
+  "year": 2016,
+  "group": "提高组",
+  "difficulty": 7,
+  "title": "天天爱跑步",
+  "full_name": "[NOIP 2016 提高组] 天天爱跑步",
+  "luogu_tags": "2016|线段树|树上启发式合并|NOIP 提高组|最近公共祖先 LCA|树链剖分|动态树 LCT|ST 表|差分|线段树合并",
+  "url": "https://www.luogu.com.cn/problem/P1600"
+ },
+ {
+  "pid": "P3959",
+  "contest": "NOIP",
+  "year": 2017,
+  "group": "提高组",
+  "difficulty": 7,
+  "title": "宝藏",
+  "full_name": "[NOIP 2017 提高组] 宝藏",
+  "luogu_tags": "搜索|贪心|2017|NOIP 提高组|枚举|剪枝|模拟退火|随机化|状压 DP",
+  "url": "https://www.luogu.com.cn/problem/P3959"
+ },
+ {
+  "pid": "P3960",
+  "contest": "NOIP",
+  "year": 2017,
+  "group": "提高组",
+  "difficulty": 7,
+  "title": "列队",
+  "full_name": "[NOIP 2017 提高组] 列队",
+  "luogu_tags": "2017|线段树|二分|平衡树|树状数组|NOIP 提高组|离线处理",
+  "url": "https://www.luogu.com.cn/problem/P3960"
+ },
+ {
+  "pid": "P5023",
+  "contest": "NOIP",
+  "year": 2018,
+  "group": "提高组",
+  "difficulty": 8,
+  "title": "填数游戏",
+  "full_name": "[NOIP 2018 提高组] 填数游戏",
+  "luogu_tags": "动态规划 DP|数学|2018|NOIP 提高组|排列组合|分类讨论",
+  "url": "https://www.luogu.com.cn/problem/P5023"
+ },
+ {
+  "pid": "P5024",
+  "contest": "NOIP",
+  "year": 2018,
+  "group": "提高组",
+  "difficulty": 7,
+  "title": "保卫王国",
+  "full_name": "[NOIP 2018 提高组] 保卫王国",
+  "luogu_tags": "动态规划 DP|2018|倍增|NOIP 提高组|树链剖分|动态 DP|全局平衡二叉树",
+  "url": "https://www.luogu.com.cn/problem/P5024"
+ },
+ {
+  "pid": "P5659",
+  "contest": "CSP",
+  "year": 2019,
+  "group": "CSP-S",
+  "difficulty": 8,
+  "title": "树上的数",
+  "full_name": "[CSP-S 2019] 树上的数",
+  "luogu_tags": "树形数据结构|2019|CSP-S 提高级",
+  "url": "https://www.luogu.com.cn/problem/P5659"
+ },
+ {
+  "pid": "P5665",
+  "contest": "CSP",
+  "year": 2019,
+  "group": "CSP-S",
+  "difficulty": 7,
+  "title": "划分",
+  "full_name": "[CSP-S 2019] 划分",
+  "luogu_tags": "动态规划 DP|贪心|2019|单调队列|CSP-S 提高级",
+  "url": "https://www.luogu.com.cn/problem/P5665"
+ },
+ {
+  "pid": "P5666",
+  "contest": "CSP",
+  "year": 2019,
+  "group": "CSP-S",
+  "difficulty": 7,
+  "title": "树的重心",
+  "full_name": "[CSP-S 2019] 树的重心",
+  "luogu_tags": "2019|倍增|树状数组|树上启发式合并|树形 DP|CSP-S 提高级",
+  "url": "https://www.luogu.com.cn/problem/P5666"
+ },
+ {
+  "pid": "P7078",
+  "contest": "CSP",
+  "year": 2020,
+  "group": "CSP-S",
+  "difficulty": 8,
+  "title": "贪吃蛇",
+  "full_name": "[CSP-S 2020] 贪吃蛇",
+  "luogu_tags": "贪心|博弈论|2020|队列|CSP-S 提高级",
+  "url": "https://www.luogu.com.cn/problem/P7078"
+ },
+ {
+  "pid": "P7115",
+  "contest": "NOIP",
+  "year": 2020,
+  "group": "提高组",
+  "difficulty": 7,
+  "title": "移球游戏",
+  "full_name": "[NOIP2020] 移球游戏",
+  "luogu_tags": "2020|NOIP 提高组|Special Judge|分治|构造|Ad-hoc",
+  "url": "https://www.luogu.com.cn/problem/P7115"
+ },
+ {
+  "pid": "P7116",
+  "contest": "NOIP",
+  "year": 2020,
+  "group": "提高组",
+  "difficulty": 7,
+  "title": "微信步数",
+  "full_name": "[NOIP2020] 微信步数",
+  "luogu_tags": "数学|2020|NOIP 提高组|拉格朗日插值法",
+  "url": "https://www.luogu.com.cn/problem/P7116"
+ },
+ {
+  "pid": "P7916",
+  "contest": "CSP",
+  "year": 2021,
+  "group": "CSP-S",
+  "difficulty": 7,
+  "title": "交通规划",
+  "full_name": "[CSP-S 2021] 交通规划",
+  "luogu_tags": "动态规划 DP|2021|网络流|O2优化|区间 DP|图论建模|最短路|平面图|最小割|CSP-S 提高级",
+  "url": "https://www.luogu.com.cn/problem/P7916"
+ },
+ {
+  "pid": "P7962",
+  "contest": "NOIP",
+  "year": 2021,
+  "group": "提高组",
+  "difficulty": 7,
+  "title": "方差",
+  "full_name": "[NOIP2021] 方差",
+  "luogu_tags": "动态规划 DP|2021|NOIP 提高组|O2优化|模拟退火|动态规划优化",
+  "url": "https://www.luogu.com.cn/problem/P7962"
+ },
+ {
+  "pid": "P7963",
+  "contest": "NOIP",
+  "year": 2021,
+  "group": "提高组",
+  "difficulty": 8,
+  "title": "棋局",
+  "full_name": "[NOIP2021] 棋局",
+  "luogu_tags": "并查集|2021|NOIP 提高组|O2优化|线段树合并",
+  "url": "https://www.luogu.com.cn/problem/P7963"
+ }
+]

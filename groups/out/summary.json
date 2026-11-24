@@ -1,0 +1,112 @@
+{
+ "junior": {
+  "n": 80,
+  "level": "junior",
+  "primary": {
+   "simulation": 23,
+   "dp_linear": 8,
+   "enumeration": 8,
+   "sorting": 7,
+   "math_other": 7,
+   "greedy": 6,
+   "dp_knapsack": 3,
+   "shortest_path": 3,
+   "dp_count": 2,
+   "math_nt": 2,
+   "two_pointers": 2,
+   "tree_property": 2,
+   "game": 1,
+   "string_algo": 1,
+   "search": 1,
+   "toposort": 1,
+   "greedy_heap": 1,
+   "math_counting": 1,
+   "binary_answer": 1
+  },
+  "family": {
+   "基础实现": 38,
+   "动态规划": 13,
+   "数学": 10,
+   "贪心": 7,
+   "图论/树": 6,
+   "二分/双指针/前缀": 3,
+   "博弈": 1,
+   "字符串": 1,
+   "搜索": 1
+  },
+  "eval": {
+   "model": {
+    "1": 0.2875,
+    "3": 0.4875,
+    "5": 0.5125
+   },
+   "family": {
+    "1": 0.475,
+    "3": 0.7625,
+    "5": 0.925
+   }
+  }
+ },
+ "senior": {
+  "n": 122,
+  "level": "senior",
+  "primary": {
+   "greedy": 15,
+   "simulation": 11,
+   "binary_answer": 9,
+   "dp_linear": 8,
+   "dp_tree": 7,
+   "enumeration": 6,
+   "search": 6,
+   "math_counting": 6,
+   "dsu": 5,
+   "math_other": 5,
+   "dp_count": 5,
+   "shortest_path": 4,
+   "ds_maintain": 4,
+   "math_nt": 3,
+   "tree_lca": 3,
+   "string_algo": 3,
+   "dp_interval": 2,
+   "tree_property": 2,
+   "mst": 2,
+   "dp_knapsack": 2,
+   "mono_stack_queue": 2,
+   "dp_bitmask": 2,
+   "dp_dag": 2,
+   "construction": 2,
+   "sorting": 1,
+   "other": 1,
+   "prefix_diff": 1,
+   "game": 1,
+   "toposort": 1,
+   "greedy_heap": 1
+  },
+  "family": {
+   "动态规划": 28,
+   "基础实现": 18,
+   "贪心": 16,
+   "数学": 14,
+   "图论/树": 12,
+   "二分/双指针/前缀": 12,
+   "数据结构": 9,
+   "搜索": 6,
+   "字符串": 3,
+   "构造": 2,
+   "其他": 1,
+   "博弈": 1
+  },
+  "eval": {
+   "model": {
+    "1": 0.19672131147540983,
+    "3": 0.3114754098360656,
+    "5": 0.4262295081967213
+   },
+   "family": {
+    "1": 0.26229508196721313,
+    "3": 0.5327868852459017,
+    "5": 0.6721311475409836
+   }
+  }
+ }
+}
